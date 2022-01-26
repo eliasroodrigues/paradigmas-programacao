@@ -1,0 +1,6 @@
+Cimento - Sim
+Cimento - 20
+Cimento - 240.0
+01/01/2022 - ["Cimento","Cal"]
+05/05/2022 - []
+Loja do Ze - 250.0
